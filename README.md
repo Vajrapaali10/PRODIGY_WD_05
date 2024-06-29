@@ -1,0 +1,2 @@
+"Utilize JavaScript to fetch real-time weather data from a reliable API, ensuring accurate and up-to-date information for users.Employ CSS to style the application with weather-specific visuals and responsive design, enhancing the user experience across various devices and screen sizes
+Implement HTML to structure the weather application, organizing elements for displaying current conditions, forecasts, and interactive features such as location search and unit toggles."
